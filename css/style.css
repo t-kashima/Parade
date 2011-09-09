@@ -1,0 +1,19 @@
+.main {
+    margin: 0px auto;
+    width: 800px;
+}
+
+.main_center {
+    margin: auto;
+    background: #E9E9E9;
+    width: 256px;
+    height: 192px;
+}
+
+.main_bottom {
+    margin: 20px 0px;
+}
+
+img.button {
+    cursor: pointer;
+}
